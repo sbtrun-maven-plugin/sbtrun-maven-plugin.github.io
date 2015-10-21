@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c0" href="./SBTRunMojo.html" title="com.google.code.sbt.run.plugin.SBTRunMojo" alt="" coords="55,113,145,137"/>
+<area shape="rect" id="node1" href="./SBTRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="44,101,156,149"/>
+<area shape="rect" id="c1" href="./HelpMojo.html" title="com.google.code.sbt.run.plugin.HelpMojo" alt="" coords="229,17,299,41"/>
+<area shape="rect" id="node2" href="./HelpMojo.html" title="&lt;TABLE&gt;" alt="" coords="219,5,309,53"/>
+<area shape="rect" id="c2" href="./AbstractAntJavaBasedMojo.html" title="com.google.code.sbt.run.plugin.AbstractAntJavaBasedMojo" alt="" coords="15,17,185,41"/>
+<area shape="rect" id="node3" href="./AbstractAntJavaBasedMojo.html" title="&lt;TABLE&gt;" alt="" coords="5,5,195,53"/>
+<area shape="rect" id="c3" href="./AbstractAntJavaBasedMojo.JavaRunnable.html" title="com.google.code.sbt.run.plugin.AbstractAntJavaBasedMojo.JavaRunnable" alt="" coords="343,17,441,41"/>
+<area shape="rect" id="node4" href="./AbstractAntJavaBasedMojo.JavaRunnable.html" title="&lt;TABLE&gt;" alt="" coords="333,5,451,53"/>
+</map>

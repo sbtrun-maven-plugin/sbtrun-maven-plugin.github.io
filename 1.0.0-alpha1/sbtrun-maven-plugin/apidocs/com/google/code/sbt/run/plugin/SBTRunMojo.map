@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="c124" href="./SBTRunMojo.html" title="com.google.code.sbt.run.plugin.SBTRunMojo" alt="" coords="833,113,924,137"/>
+<area shape="rect" id="node1" href="./SBTRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="823,101,935,149"/>
+<area shape="rect" id="c128" href="http://maven.apache.org/ref/2.2.1/maven-project/apidocs/org/apache/maven/project/MavenProjectBuilder.html" title="org.apache.maven.project.MavenProjectBuilder" alt="" coords="621,203,752,253"/>
+<area shape="rect" id="node5" href="http://maven.apache.org/ref/2.2.1/maven-project/apidocs/org/apache/maven/project/MavenProjectBuilder.html" title="&lt;TABLE&gt;" alt="" coords="611,197,763,259"/>
+<area shape="rect" id="c129" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/factory/ArtifactFactory.html" title="org.apache.maven.artifact.factory.ArtifactFactory" alt="" coords="797,203,961,253"/>
+<area shape="rect" id="node7" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/factory/ArtifactFactory.html" title="&lt;TABLE&gt;" alt="" coords="787,197,971,259"/>
+<area shape="rect" id="c130" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/resolver/ArtifactResolver.html" title="org.apache.maven.artifact.resolver.ArtifactResolver" alt="" coords="15,203,182,253"/>
+<area shape="rect" id="node9" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/resolver/ArtifactResolver.html" title="&lt;TABLE&gt;" alt="" coords="5,197,192,259"/>
+<area shape="rect" id="c131" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/repository/ArtifactRepository.html" title="org.apache.maven.artifact.repository.ArtifactRepository" alt="" coords="226,203,401,253"/>
+<area shape="rect" id="node11" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/repository/ArtifactRepository.html" title="&lt;TABLE&gt;" alt="" coords="216,197,411,259"/>
+<area shape="rect" id="c132" href="http://maven.apache.org/ref/2.2.1/maven-project/apidocs/org/apache/maven/project/MavenProject.html" title="org.apache.maven.project.MavenProject" alt="" coords="1005,210,1133,246"/>
+<area shape="rect" id="node14" href="http://maven.apache.org/ref/2.2.1/maven-project/apidocs/org/apache/maven/project/MavenProject.html" title="&lt;TABLE&gt;" alt="" coords="995,204,1144,252"/>
+<area shape="rect" id="c133" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="org.apache.maven.artifact.Artifact" alt="" coords="1178,203,1307,253"/>
+<area shape="rect" id="node16" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="&lt;TABLE&gt;" alt="" coords="1168,197,1317,259"/>
+<area shape="rect" id="node19" href="null" title="&lt;TABLE&gt;" alt="" coords="1341,204,1467,252"/>
+<area shape="rect" id="node21" href="null" title="&lt;TABLE&gt;" alt="" coords="1491,204,1656,252"/>
+<area shape="rect" id="node23" href="null" title="&lt;TABLE&gt;" alt="" coords="435,204,587,252"/>
+<area shape="rect" id="c126" href="./AbstractAntJavaBasedMojo.html" title="com.google.code.sbt.run.plugin.AbstractAntJavaBasedMojo" alt="" coords="1158,17,1327,41"/>
+<area shape="rect" id="node2" href="./AbstractAntJavaBasedMojo.html" title="&lt;TABLE&gt;" alt="" coords="1148,5,1337,53"/>
+</map>
